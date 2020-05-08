@@ -628,3 +628,7 @@ URF = {
 	color = rgb { 213 43 30 }
 	color_ui = rgb { 213 43 30 }
 }
+BLS = {
+	color = rgb { 76 130 13 }
+	color_ui = rgb { 76 130 13 }
+}

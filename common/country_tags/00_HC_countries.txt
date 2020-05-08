@@ -9,8 +9,9 @@ CHS = "countries/Soryth.txt"
 CHR = "countries/Reisamm.txt"
 CHD = "countries/Dytrisium.txt"
 SEV = "countries/Severyana.txt"
-
+YAK = "countries/Yakistan.txt"
 URF = "countries/Unicorn_Revolutionary_Front.txt"
+BLS = "countries/Bales.txt"
 
 
 
