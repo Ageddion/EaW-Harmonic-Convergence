@@ -1,0 +1,19 @@
+
+state={
+	id=685
+	name="STATE_685"
+	history={
+		owner = URF
+		add_core_of = URF
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	provinces={
+		6071 6185 6214 9126 9725 10778 11058 11112 13117 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

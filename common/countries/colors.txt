@@ -623,3 +623,8 @@ NCR = {
 	color = rgb { 153 116 93 }
 	color_ui = rgb { 199 151 121 }
 }
+
+URF = {
+	color = rgb { 213 43 30 }
+	color_ui = rgb { 213 43 30 }
+}

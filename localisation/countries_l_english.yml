@@ -131,7 +131,18 @@
   YAK_neutrality_ADJ:0 "Khanate"
   YAK_communism_ADJ:0 "Khanate"
   
-  
+  URF_neutrality:0 "Unicorn Revolutionary Front"
+  URF_fascism:0 "Unicorn Revolutionary Front"
+  URF_communism:0 "Unicorn Revolutionary Front"
+  URF_democratic:0 "Unicorn Revolutionary Front"
+  URF_neutrality_DEF:0 "Unicorn Revolutionary Front"
+  URF_fascism_DEF:0 "Unicorn Revolutionary Front"
+  URF_communism_DEF:0 "Unicorn Revolutionary Front"
+  URF_democratic_DEF:0 "Unicorn Revolutionary Front"
+  URF_fascism_ADJ:0 "Unicorn-Revolutionary"
+  URF_democratic_ADJ:0 "Unicorn-Revolutionary"
+  URF_neutrality_ADJ:0 "Unicorn-Revolutionary"
+  URF_communism_ADJ:0 "Unicorn-Revolutionary"
   
   
   
