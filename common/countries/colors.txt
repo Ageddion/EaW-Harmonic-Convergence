@@ -15,6 +15,10 @@ SEV = {
 	color = rgb { 0 57 166 }
 	color_ui = rgb { 0 57 166 }
 }
+PSP = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
 YAK = {
 	color = rgb { 124 198 240 }
 	color_ui = rgb { 124 198 240 }
@@ -22,6 +26,10 @@ YAK = {
 CRY = {
 	color = rgb { 213 166 240 }
 	color_ui = rgb { 213 166 240 }
+}
+CRU = {
+	color = rgb { 66 68 106 }
+	color_ui = rgb { 66 68 106 }
 }
 OLE = {
 	color = rgb { 224 225 249 }

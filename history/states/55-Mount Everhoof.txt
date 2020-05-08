@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = CRY
+		owner = YAK
 		add_core_of = CRY
 
 	}
