@@ -8,14 +8,14 @@ state={
 		owner = OLD
 		add_core_of = OLD
 		victory_points = {
-			6732 3
+			6732 20
 		}
 	}
 
 	provinces={
 		6732 11769 
 	}
-	manpower=61398
+	manpower=761398
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

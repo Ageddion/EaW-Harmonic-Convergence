@@ -7,8 +7,8 @@ state={
 		crystals = 18
 	}
 	history={
-		owner = STG
-		add_core_of = STG
+		owner = YAK
+		add_core_of = SEV
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
