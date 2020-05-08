@@ -5,8 +5,8 @@ state={
 	name="STATE_240"
 	
 	history={
-		owner = STG
-		add_core_of = STG
+		owner = YAK
+		add_core_of = YAK
 		buildings = {
 			infrastructure = 2
 

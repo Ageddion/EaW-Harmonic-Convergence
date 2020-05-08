@@ -3,8 +3,8 @@ state={
 	name="STATE_333"
 	state_category = rural
 	history={
-		owner = STG
-		add_core_of = STG
+		owner = CHD
+		add_core_of = CHD
 		buildings = {
 			infrastructure = 2
 			9176 = { naval_base = 1 }

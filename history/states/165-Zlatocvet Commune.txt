@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SEV
+		owner = YAK
 		add_core_of = SEV
 		buildings = {
 			infrastructure = 6

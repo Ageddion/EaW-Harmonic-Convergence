@@ -104,4 +104,3 @@ create_country_leader = {
 }
 
 
-create_faction = changeling_federation

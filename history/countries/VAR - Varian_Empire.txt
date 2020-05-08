@@ -1,5 +1,6 @@
-﻿capital = 199
+﻿capital = 69
 
+oob = "OLE_1007"
 
 set_research_slots = 3
 
@@ -25,7 +26,6 @@ set_politics = {
 	election_frequency = 36
 	elections_allowed = no
 }
-set_cosmetic_tag = CHD_puppet
 
 
 add_ideas = {

@@ -93,3 +93,6 @@ create_country_leader = {
 
 
 create_faction = changeling_federation
+add_to_faction = CHD
+add_to_faction = CHR
+add_to_faction = CHS

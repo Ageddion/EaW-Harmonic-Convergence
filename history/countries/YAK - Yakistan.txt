@@ -1,4 +1,4 @@
-﻿capital = 11
+﻿capital = 274
 
 oob = "YAK_1007"
 
@@ -20,17 +20,35 @@ actually_fix_weapon_techs = yes #THIS HAS TO BE CALLED IN EVERY HISTORY FILE RIG
 
 set_convoys = 69
 set_popularities = {
-	democratic = 70
-	fascism = 6
+	democratic = 6
+	fascism = 80
 	communism = 4
-	neutrality = 20
+	neutrality = 10
 }
 set_politics = {
 
-	ruling_party = democratic
+	ruling_party = fascism
 	last_election = "1000.10.10"
 	election_frequency = 36
 	elections_allowed = no
+}
+
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = SEV
+		autonomy_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = PNG
+		autonomy_state = autonomy_dominion
+	}
+	else = {
+		puppet = SEV
+		puppet = PNG
+	}
 }
 
 
@@ -185,3 +203,5 @@ if = {
 
 generic_DD_template = yes
 generic_CL_template = yes
+
+create_faction = Yak_khanate
