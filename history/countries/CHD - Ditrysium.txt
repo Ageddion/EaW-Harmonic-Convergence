@@ -1,0 +1,107 @@
+﻿capital = 251
+
+
+set_research_slots = 3
+
+set_technology = {
+	changeling_race = 1
+	melee_weapons = 1
+	melee_weapons1 = 1
+	
+}
+actually_fix_weapon_techs = yes #THIS HAS TO BE CALLED IN EVERY HISTORY FILE RIGHT AFTER MAIN set_technology!
+
+
+
+set_convoys = 150
+set_popularities = {
+	democratic = 6
+	fascism = 74
+	communism = 15
+	neutrality = 5
+}
+set_politics = {
+
+	ruling_party = fascism
+	last_election = "1000.10.10"
+	election_frequency = 36
+	elections_allowed = no
+}
+
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	add_to_tech_sharing_group = CHN_research
+}
+
+add_ideas = {
+	canterlot_defeat_1
+	political_divisions
+	limited_exports
+	CHN_GRI_Attache_For_CHN
+	CHN_army_reorganization
+}
+set_stability = 0.6
+
+if = {
+	limit = { has_dlc = "La Resistance" }
+	create_intelligence_agency = yes
+}
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = OLD
+		autonomy_state = autonomy_dominion
+	}
+	else = {
+		puppet = OLD
+	}
+}
+
+create_country_leader = {
+	name = "Hivesmarschall Synovial"
+	expire = "1965.1.1"
+	ideology = despotism
+	picture = "Synovial.tga"
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Queen Chrysalis"
+	expire = "1965.1.1"
+	picture = "Chrysalis.tga"
+	ideology = nazism
+	desc = "POLITICS_CHRYSALIS_DESC"
+	female = yes
+	traits = {
+		warmonger
+	}
+}
+
+create_country_leader = {
+	name = "Thorax"
+	expire = "1965.1.1"
+	picture = "Thorax.tga"
+	ideology = liberalism
+	desc = "politics_thorax_puppet_desc"
+	traits = {
+
+	}
+}
+
+create_country_leader = {
+	name = "Gold Muffin"
+	expire = "1965.1.1"
+	ideology = leninism
+	picture = "GoldMuffin.tga"
+	traits = {
+
+	}
+}
+
+
+create_faction = changeling_federation
