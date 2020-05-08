@@ -4,7 +4,8 @@ state={
 	name="STATE_339"
 
 	history={
-		owner = CRY
+		owner = YAK
+		add_core_of = YAK
 		add_core_of = CRY
 		buildings = {
 			infrastructure = 1

@@ -1,0 +1,23 @@
+
+state={
+	id=684
+	name="Penguin Refuge"
+	history={
+		owner = PNG
+		add_core_of = PNG
+		victory_points = {
+			13111 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+	}
+	provinces={
+		152 193 6057 9184 12024 13105 13111
+	}
+	manpower=29300
+	state_category=large_town
+	buildings_max_level_factor=1.000
+}

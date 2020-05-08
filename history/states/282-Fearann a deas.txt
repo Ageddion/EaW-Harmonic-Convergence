@@ -6,7 +6,8 @@ state={
 	}
 	manpower=70329
 	history={
-		owner = PNG
+		owner = YAK
+		add_core_of = PNG
 		buildings = {
 			infrastructure = 1
 		}

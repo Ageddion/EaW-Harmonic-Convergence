@@ -9,8 +9,8 @@ state={
 	}
 	manpower=19082
 	history={
-		owner = GRF
-		add_core_of = GRF
+		owner = YAK
+		add_core_of = YAK
 	}
 
 	state_category = wasteland

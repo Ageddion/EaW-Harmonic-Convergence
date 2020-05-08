@@ -6,7 +6,7 @@ state={
 	}
 	manpower=287824
 	history={
-		owner = PNG
+		owner = YAK
 		add_core_of = PNG
 		victory_points = {
 			11191 3

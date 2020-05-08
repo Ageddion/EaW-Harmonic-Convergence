@@ -3,4 +3,4 @@
 graphical_culture = GER
 graphical_culture_2d = eastern_european_2d
 
-color = rgb (143 0 179)
+color = rgb ( 143 0 179 )

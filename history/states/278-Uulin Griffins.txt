@@ -4,11 +4,8 @@ state={
 	name="STATE_278"
 
 	history={
-		owner = GFF
-		add_core_of = GFF
-		add_claim_by = YAK
-		add_claim_by = JAK
-		add_core_of = GRF
+		owner = YAK
+		add_core_of = YAK
 
 	}
 	resources={
