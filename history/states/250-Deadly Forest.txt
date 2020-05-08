@@ -1,3 +1,4 @@
+
 state={
 	id=250
 	name="STATE_250"
@@ -13,3 +14,4 @@ state={
 	state_category = rural
 	buildings_max_level_factor=1.000
 }
+

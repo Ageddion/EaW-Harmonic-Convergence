@@ -1,3 +1,4 @@
+
 state={
 	id=252
 	name="STATE_252"
@@ -22,3 +23,4 @@ state={
 	state_category = metropolis
 	buildings_max_level_factor=1.900
 }
+
