@@ -10,9 +10,8 @@ state={
 	}
 	manpower=10400
 	history={
-		owner = GFF
-		add_core_of = GFF
-		add_core_of = GRF
+		owner = YAK
+		add_core_of = YAK
 		buildings = {
 			infrastructure = 1
 		}
