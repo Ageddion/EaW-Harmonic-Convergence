@@ -1,0 +1,14 @@
+EQS = "countries/Equestria.txt"
+
+OLE = "countries/Olenia.txt"
+OLD = "countries/Cervus.txt"
+VAR = "countries/Varian_Empire.txt"
+
+CHN = "countries/Vraks.txt"
+CHS = "countries/Soryth.txt"
+CHR = "countries/Reisamm.txt"
+CHD = "countries/Dytrisium.txt"
+
+
+
+

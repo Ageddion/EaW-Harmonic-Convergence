@@ -1,0 +1,4 @@
+CHD_puppet = {
+	color = rgb (171 64 86)
+	color_ui = rgb (171 64 86)
+}
