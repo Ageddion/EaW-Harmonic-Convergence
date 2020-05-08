@@ -5,7 +5,7 @@ oob = "OLE_1007"
 set_research_slots = 3
 
 set_technology = {
-	deer_race = 1
+	pony_race = 1
 	melee_weapons = 1
 	melee_weapons1 = 1
 	
@@ -29,9 +29,7 @@ set_politics = {
 
 
 add_ideas = {
-	OLE_currupt_government
-	OLE_raising_dissent
-	outdated_industry
+	
 }
 
 set_stability = 0.65
@@ -39,48 +37,16 @@ set_stability = 0.65
 
 
 create_country_leader = {
-	name = "King Johan 'Djavulen'"
+	name = "Tsar"
 	desc = "POLITICS_KINGJOHAN_DESC"
-	picture = "DeerKing.dds"
+	picture = "Tsar.dds"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {
 	}
 }
 
-create_country_leader = {
-	name = "Allsherjargoði Jurva"
-	desc = "POLITICS_JURVA_DESC"
-	picture = "Priest.tga"
-	expire = "1965.1.1"
-	ideology = falangism
-	traits = {
 
-	}
-}
-
-create_country_leader = {
-	name = "Queen Velvet"
-	desc = "POLITICS_VELVET"
-	picture = "QueenVelvet.tga"
-	expire = "1965.1.1"
-	ideology = conservatism
-	female = yes
-	traits = {
-
-	}
-}
-
-create_country_leader = {
-	name = "Kullervo Sirola"
-	desc = "POLITICS_KULLERVO_DESC"
-	picture = "KullervoSirola.dds"
-	expire = "1965.1.1"
-	ideology = leninism
-	traits = {
-
-	}
-}
 
 set_rule = {
 	can_generate_female_aces = yes

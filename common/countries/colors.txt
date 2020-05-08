@@ -11,9 +11,9 @@ DRG = {
 	color = rgb { 196 195 164 }
 	color_ui = rgb { 181 180 164 }
 }
-STG = {
-	color = rgb { 249 26 93 }
-	color_ui = rgb { 249 26 93 }
+SEV = {
+	color = rgb { 0 57 166 }
+	color_ui = rgb { 0 57 166 }
 }
 YAK = {
 	color = rgb { 124 198 240 }

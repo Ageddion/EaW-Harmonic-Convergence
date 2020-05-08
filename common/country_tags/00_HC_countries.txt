@@ -8,6 +8,7 @@ CHN = "countries/Vraks.txt"
 CHS = "countries/Soryth.txt"
 CHR = "countries/Reisamm.txt"
 CHD = "countries/Dytrisium.txt"
+SEV = "countries/Severyana.txt"
 
 
 
