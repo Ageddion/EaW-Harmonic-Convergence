@@ -5,8 +5,8 @@ state={
 	name="STATE_245"
 
 	history={
-		owner = GRF
-		add_core_of = GRF
+		owner = YAK
+		add_core_of = YAK
 
 	}
 

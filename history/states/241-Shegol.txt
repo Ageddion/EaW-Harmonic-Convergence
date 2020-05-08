@@ -5,9 +5,8 @@ state={
 	name="STATE_241"
 
 	history={
-		owner = EQS
-		add_core_of = EQS
-		add_claim_by = GRF
+		owner = YAK
+		add_core_of = YAK
 		buildings = {
 			infrastructure = 1
 			3082 = { naval_base = 1 }

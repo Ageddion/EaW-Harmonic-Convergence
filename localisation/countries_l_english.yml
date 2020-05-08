@@ -64,18 +64,18 @@
   OLE_neutrality_ADJ:0 "Olenian"
   OLE_communism_ADJ:0 "Olenian"
   
-  OLD_neutrality:0 "Cervus Commission"
-  OLD_fascism:0 "Cervus Commission"
-  OLD_communism:0 "Cervus Commission"
-  OLD_democratic:0 "Cervus Commission"
-  OLD_neutrality_DEF:0 "Cervus Commission"
-  OLD_fascism_DEF:0 "Cervus Commission"
-  OLD_communism_DEF:0 "Cervus Commission"
-  OLD_democratic_DEF:0 "Cervus Commission"
-  OLD_fascism_ADJ:0 "Cervusian"
-  OLD_democratic_ADJ:0 "Cervusian"
-  OLD_neutrality_ADJ:0 "Cervusian"
-  OLD_communism_ADJ:0 "Cervusian"
+  OLD_neutrality:0 "Goldenshore Commission"
+  OLD_fascism:0 "Goldenshore Commission"
+  OLD_communism:0 "Goldenshore Commission"
+  OLD_democratic:0 "Goldenshore Commission"
+  OLD_neutrality_DEF:0 "Goldenshore Commission"
+  OLD_fascism_DEF:0 "Goldenshore Commission"
+  OLD_communism_DEF:0 "Goldenshore Commission"
+  OLD_democratic_DEF:0 "Goldenshore Commission"
+  OLD_fascism_ADJ:0 "Commission"
+  OLD_democratic_ADJ:0 "Commission"
+  OLD_neutrality_ADJ:0 "Commission"
+  OLD_communism_ADJ:0 "Commission"
   
   VAR_neutrality:0 "Varian Empire"
   VAR_fascism:0 "Varian Empire"
@@ -90,6 +90,7 @@
   VAR_neutrality_ADJ:0 "Varian"
   VAR_communism_ADJ:0 "Varian"
 
+
   SEV_neutrality:0 "Tsardom of Severyana"
   SEV_fascism:0 "Tsardom of Severyana"
   SEV_communism:0 "Soviet Republic of Severyana"
@@ -102,3 +103,42 @@
   SEV_democratic_ADJ:0 "Severyan"
   SEV_neutrality_ADJ:0 "Severyan"
   SEV_communism_ADJ:0 "Severyan"
+
+  
+  PLB_neutrality:0 "Polar Council"
+  PLB_fascism:0 "Polar Council"
+  PLB_communism:0 "Polar Council"
+  PLB_democratic:0 "Polar Council"
+  PLB_neutrality_DEF:0 "Polar Council"
+  PLB_fascism_DEF:0 "Polar Council"
+  PLB_communism_DEF:0 "Polar Council"
+  PLB_democratic_DEF:0 "Polar Council"
+  PLB_fascism_ADJ:0 "Bear"
+  PLB_democratic_ADJ:0 "Bear"
+  PLB_neutrality_ADJ:0 "Bear"
+  PLB_communism_ADJ:0 "Bear"
+  
+  YAK_neutrality:0 "Great Khanate"
+  YAK_fascism:0 "Great Khanate"
+  YAK_communism:0 "Great Khanate"
+  YAK_democratic:0 "Great Khanate"
+  YAK_neutrality_DEF:0 "Great Khanate"
+  YAK_fascism_DEF:0 "Great Khanate"
+  YAK_communism_DEF:0 "Great Khanate"
+  YAK_democratic_DEF:0 "Great Khanate"
+  YAK_fascism_ADJ:0 "Khanate"
+  YAK_democratic_ADJ:0 "Khanate"
+  YAK_neutrality_ADJ:0 "Khanate"
+  YAK_communism_ADJ:0 "Khanate"
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+

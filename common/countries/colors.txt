@@ -28,20 +28,20 @@ OLE = {
 	color_ui = rgb { 224 225 249 }
 }
 OLD = {
-	color = rgb (163 0 203)
-	color_ui = rgb (163 0 204)
+	color = rgb ( 163 0 203 )
+	color_ui = rgb ( 163 0 204 )
 }
 VAR = {
-	color = rgb (143 0 179)
-	color_ui = rgb (143 0 179)
+	color = rgb ( 143 0 179 )
+	color_ui = rgb ( 143 0 179 )
 }
 CHN = {
 	color = rgb { 60 64 86 }
 	color_ui = rgb { 60 64 86 }
 }
 CHD = {
-	color = rgb (171 64 86)
-	color_ui = rgb (171 64 86)
+	color = rgb ( 171 64 86 )
+	color_ui = rgb ( 171 64 86 )
 }
 CHS = {
 	color = rgb { 5 57 22 }
