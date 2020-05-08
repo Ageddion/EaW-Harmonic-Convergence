@@ -1,11 +1,14 @@
 
 state={
 	id=137
-	name="STATE_137"
+	name="Pegasopolis"
 
 	history={
-		owner = EQS
-		add_core_of = EQS
+		owner = PSP
+		add_core_of = PSP
+		victory_points = {
+			7454 25 
+		}
 		buildings = {
 			air_base = 1
 			infrastructure = 1

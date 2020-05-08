@@ -6,8 +6,8 @@ state={
 		crystals = 42
 	}
 	history={
-		owner = CRY
-		add_core_of = CRY
+		owner = CRU
+		add_core_of = CRU
 
 	}
 

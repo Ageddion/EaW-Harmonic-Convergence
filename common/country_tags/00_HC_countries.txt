@@ -1,4 +1,5 @@
 EQS = "countries/Equestria.txt"
+PSP = "countries/Pegasopolis.txt"
 
 OLE = "countries/Olenia.txt"
 OLD = "countries/Cervus.txt"
@@ -11,6 +12,9 @@ CHD = "countries/Dytrisium.txt"
 SEV = "countries/Severyana.txt"
 
 URF = "countries/Unicorn_Revolutionary_Front.txt"
+
+CRY = "countries/CrystalEmpire.txt"
+CRU = "countries/Umbrum_lands.txt"
 
 
 

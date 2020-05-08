@@ -4,10 +4,10 @@ state={
 	name="STATE_136"
 
 	history={
-		owner = EQS
-		add_core_of = EQS
+		owner = PSP
+		add_core_of = PSP
 		victory_points = {
-			748 15 
+			748 10 
 		}
 		buildings = {
 			infrastructure = 6
