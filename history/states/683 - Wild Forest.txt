@@ -1,0 +1,20 @@
+
+state={
+	id=683
+	name="Wild Forest"
+	history={
+		owner = EQS
+		add_core_of = EQS
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+	}
+	provinces={
+		735 3746 3767 9571 9628 9647 9688 9705 9726
+	}
+	manpower=29300
+	state_category=large_town
+	buildings_max_level_factor=1.000
+}
