@@ -7,9 +7,8 @@ state={
 	}
 
 	history={
-		owner = EQS
-		add_core_of = STG
-		add_core_of = EQS
+		owner = SEV
+		add_core_of = SEV
 		buildings = {
 			infrastructure = 2
 

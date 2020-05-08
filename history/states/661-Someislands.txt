@@ -6,9 +6,8 @@ state={
 		10395 1479 10435
 	}
 	history={
-		owner = EQS
-		add_core_of = EQS
-		add_core_of = STG
+		owner = SEV
+		add_core_of = SEV
 		victory_points = { 10395 2 }
 	}
 	manpower=44567

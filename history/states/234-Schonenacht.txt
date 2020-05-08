@@ -1,11 +1,12 @@
 
+
 state={
 	id=234
 	name="STATE_234"
 
 	history={
-		owner = STG
-		add_core_of = STG
+		owner = SEV
+		add_core_of = SEV
 		buildings = {
 			infrastructure = 3
 
@@ -23,3 +24,4 @@ state={
 	buildings_max_level_factor=1.000
 	state_category=rural
 }
+

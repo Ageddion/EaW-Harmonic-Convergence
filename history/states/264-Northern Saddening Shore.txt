@@ -1,3 +1,4 @@
+
 state={
 	id=264
 	name="STATE_264"
@@ -12,3 +13,4 @@ state={
 	state_category = pastoral
 	buildings_max_level_factor=1.000
 }
+

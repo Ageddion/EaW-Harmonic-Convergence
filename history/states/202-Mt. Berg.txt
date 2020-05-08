@@ -1,3 +1,4 @@
+
 state={
 	id=202
 	name="STATE_202"
@@ -18,3 +19,4 @@ state={
 	manpower=3337
 	buildings_max_level_factor=1.000
 }
+
