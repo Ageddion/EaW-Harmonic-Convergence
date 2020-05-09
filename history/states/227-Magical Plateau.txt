@@ -5,12 +5,13 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = EQS
-		add_core_of = EQS
+		owner = SKS
+		add_core_of = SKS
 		buildings = {
 			infrastructure = 1
 		}
-		## victory_points = { 6894 2 } ##
+		victory_points = { 9755 5 } 
+		victory_points = { 6894 3 } 
 	}
 
 	provinces={

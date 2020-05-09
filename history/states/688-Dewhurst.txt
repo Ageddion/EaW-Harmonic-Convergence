@@ -1,0 +1,23 @@
+
+state={
+	id=688
+	name="Dewhurst"
+	history={
+		owner = DWH
+		add_core_of = DWH
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			11052 10
+		}
+
+	}
+	provinces={
+		3039 3113 6126 11052 11129
+	}
+	state_category=town
+	manpower=140500
+	buildings_max_level_factor=1.000
+}

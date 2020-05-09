@@ -640,3 +640,23 @@ BLS = {
 	color = rgb { 76 130 13 }
 	color_ui = rgb { 76 130 13 }
 }
+TSV = {
+	color = rgb { 76 32 2 }
+	color_ui = rgb { 76 32 2 }
+}
+DWH = {
+	color = rgb { 253 255 161 }
+	color_ui = rgb { 253 255 161 }
+}
+SKS = {
+	color = rgb { 0 126 220 }
+	color_ui = rgb { 0 126 220 }
+}
+DAL = {
+	color = rgb { 245 124 91 }
+	color_ui = rgb { 245 124 91 }
+}
+PRA = {
+	color = rgb { 3 1 74 }
+	color_ui = rgb { 3 1 74 }
+}

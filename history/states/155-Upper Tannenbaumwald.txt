@@ -4,9 +4,8 @@ state={
 	state_category = rural
 
 	history={
-		owner = EQS
-		add_core_of = EQS
-		add_core_of = STG
+		owner = TSV
+		add_core_of = TSV
 
 	}
 

@@ -1,0 +1,52 @@
+﻿capital = 232
+
+
+set_research_slots = 3
+
+set_technology = {
+	pony_race = 1
+	melee_weapons = 1
+	melee_weapons1 = 1
+	
+}
+actually_fix_weapon_techs = yes #THIS HAS TO BE CALLED IN EVERY HISTORY FILE RIGHT AFTER MAIN set_technology!
+
+set_convoys = 69
+set_popularities = {
+	democratic = 20
+	fascism = 8
+	communism = 12
+	neutrality = 60
+}
+set_politics = {
+
+	ruling_party = neutrality
+	last_election = "1000.10.10"
+	election_frequency = 36
+	elections_allowed = no
+}
+
+
+add_ideas = {
+	
+}
+
+set_stability = 0.65
+#set_war_support = 0.4
+
+
+create_country_leader = {
+	name = "Marshall of Skystead"
+	desc = "POLITICS_KINGJOHAN_DESC"
+	picture = "Starlight.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+	}
+}
+
+
+
+set_rule = {
+	can_generate_female_aces = yes
+}

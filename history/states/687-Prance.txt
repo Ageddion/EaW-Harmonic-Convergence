@@ -1,0 +1,28 @@
+
+state={
+	id=687
+	name="Prance"
+
+	history={
+		owner = PRA
+		add_core_of = PRA
+		buildings = {
+			infrastructure = 2
+			3920 = {
+				naval_base = 2
+
+			}
+		}
+		victory_points = {
+			3920 10
+		}
+
+	}
+
+	provinces={
+		3727 3920 3986 6746 6941 9770 11780 12110
+	}
+	manpower=180637
+	buildings_max_level_factor=1.000
+	state_category=city
+}

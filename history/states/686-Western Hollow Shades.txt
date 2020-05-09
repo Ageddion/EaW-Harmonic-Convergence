@@ -1,7 +1,7 @@
 
 state={
 	id=686
-	name="STATE_686"
+	name="Western Shades"
 	history={
 		owner = URF
 		add_core_of = URF
@@ -14,6 +14,7 @@ state={
 	provinces={
 		480 485 516 575 3516 3576 3973 3988 4078 4193 6446 6560 7127 7211 9500 9536 11206 11549 13272 13273 13275 
 	}
-	manpower=0
+	state_category=pastoral
+	manpower=14500
 	buildings_max_level_factor=1.000
 }
