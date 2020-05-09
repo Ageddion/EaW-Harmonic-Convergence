@@ -1,5 +1,4 @@
 
-
 state={
 	id=231
 	name="STATE_231"
@@ -9,18 +8,15 @@ state={
 		add_core_of = EQS
 		buildings = {
 			infrastructure = 2
-			
 
 		}
-		
 
 	}
 
 	provinces={
-		845 924 3926 3969 8589 9699 9877
+		845 924 3926 8589 9699 9877 
 	}
 	manpower=92328
 	buildings_max_level_factor=1.000
 	state_category=town
 }
-
