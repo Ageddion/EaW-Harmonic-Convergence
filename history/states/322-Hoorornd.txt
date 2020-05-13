@@ -6,8 +6,8 @@ state={
 	}
 	manpower=560667
 	history={
-		owner = YAK
-		add_core_of = YAK
+		owner = CHR
+		add_core_of = CHR
 		victory_points = { 13164 5 }
 		buildings = {
 			infrastructure = 2
