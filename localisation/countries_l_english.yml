@@ -262,7 +262,18 @@
   PRA_neutrality_ADJ:0 "Prench"
   PRA_communism_ADJ:0 "Prench"
   
-  
+  MHT_neutrality:0 "Manehattan Republic"
+  MHT_fascism:0 "Manehattan Republic"
+  MHT_communism:0 "Manehattan Worker's Republic"
+  MHT_democratic:0 "Manehattan Republic"
+  MHT_neutrality_DEF:0 "Manehattan Republic"
+  MHT_fascism_DEF:0 "Manehattan Republic"
+  MHT_communism_DEF:0 "Manehattan Republic"
+  MHT_democratic_DEF:0 "Manehattan Republic"
+  MHT_fascism_ADJ:0 "Manehattanite"
+  MHT_democratic_ADJ:0 "Manehattanite"
+  MHT_neutrality_ADJ:0 "Manehattanite"
+  MHT_communism_ADJ:0 "Manehattanite"
   
   
   

@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = EQS
-		add_core_of = EQS
+		owner = MHT
+		add_core_of = MHT
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 6
@@ -36,9 +36,9 @@ state={
 	}
 
 	provinces={
-		980 3037 3744 3761 6764 6818 6955 9689 9719 9787 11692 11707 
+		758 6734 11710
 	}
-	manpower=4734800
+	MHTpower=2452600
 	buildings_max_level_factor=2.000
 	state_category=megalopolis
 }

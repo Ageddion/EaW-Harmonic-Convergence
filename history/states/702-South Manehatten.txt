@@ -5,6 +5,17 @@ state={
 	provinces={
 		799 3798 3861 4135 9686 11768 11805 
 	}
-	manpower=0
+	
+	history={
+		owner = MHT
+		add_core_of = MHT
+		victory_points = {
+			
+		}
+
+	}
+
+	
+	MHTpower=0
 	buildings_max_level_factor=1.000
 }

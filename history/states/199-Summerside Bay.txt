@@ -8,7 +8,7 @@ state={
 		owner = OLD
 		add_core_of = OLD
 		victory_points = {
-			6732 20
+			6732 15
 		}
 	}
 

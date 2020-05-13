@@ -4,8 +4,8 @@ state={
 	state_category = town
 
 	history={
-		owner = EQS
-		add_core_of = EQS
+		owner = MHT
+		add_core_of = MHT
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
@@ -19,6 +19,6 @@ state={
 	provinces={
 		809 874 875 877 920 977 6948 7153 7945 8668 9881 10009 10094
 	}
-	manpower=674200
+	MHTpower=674200
 	buildings_max_level_factor=1.000
 }

@@ -4,8 +4,8 @@ state={
 	name="STATE_108"
 
 	history={
-		owner = EQS
-		add_core_of = EQS
+		owner = MHT
+		add_core_of = MHT
 		victory_points = {
 			4080 2 
 		}
@@ -15,7 +15,7 @@ state={
 	provinces={
 		6744 6954 7068 7198 9979
 	}
-	manpower=113100
+	MHTpower=113100
 	buildings_max_level_factor=1.000
 	state_category=rural
 }
