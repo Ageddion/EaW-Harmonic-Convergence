@@ -662,6 +662,6 @@ PRA = {
 	color_ui = rgb { 3 1 74 }
 }
 MHT = {
-	color = rgb { 28 24 163 }
-	color_ui = rgb { 28 24 163 }
+	color = rgb { 44 53 110 }
+	color_ui = rgb { 44 53 110 }
 }
