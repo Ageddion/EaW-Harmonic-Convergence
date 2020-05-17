@@ -1,7 +1,7 @@
 
 state={
-	id=701
-	name="STATE_701"
+	id=694
+	name="STATE_694"
 	
 	history={
 		owner = DAC
@@ -11,13 +11,14 @@ state={
 			infrastructure = 2
 		}
 		victory_points = {
-			
+			3887 5
 		}
 	}
 
 	provinces={
-		931 3930 4080 7098 7183 11798 13343
+		 
+		813 832 888 3858 3887 4195 9889 9903 9933 11718 11766 11807 11870 
 	}
-	manpower=0
+	manpower=456638
 	buildings_max_level_factor=1.000
 }

@@ -275,6 +275,19 @@
   MHT_neutrality_ADJ:0 "Manehattanite"
   MHT_communism_ADJ:0 "Manehattanite"
   
+  DAC_neutrality:0 "Dalimare Confederation"
+  DAC_fascism:0 "Dalimarean State"
+  DAC_communism:0 "Union of Dalimarean Socialist Republics"
+  DAC_democratic:0 "Dalimare Confederation"
+  DAC_neutrality_DEF:0 "Dalimare Confederation"
+  DAC_fascism_DEF:0 "Dalimare Confederation"
+  DAC_communism_DEF:0 "Dalimare Confederation"
+  DAC_democratic_DEF:0 "Dalimare Confederation"
+  DAC_fascism_ADJ:0 "Dalimarean"
+  DAC_democratic_ADJ:0 "Dalimarean"
+  DAC_neutrality_ADJ:0 "Dalimarean"
+  DAC_communism_ADJ:0 "Dalimarean"
+  
   
   
   

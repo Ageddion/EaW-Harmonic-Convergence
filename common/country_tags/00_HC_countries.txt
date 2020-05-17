@@ -8,6 +8,7 @@ SKS = "countries/Skystead.txt"
 DAL = "countries/Albion.txt"
 PRA = "countries/Prance.txt"
 MHT = "countries/Manehattan.txt"
+DAC = "countries/Dalimare.txt"
 
 OLE = "countries/Olenia.txt"
 OLD = "countries/Cervus.txt"
