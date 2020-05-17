@@ -4,8 +4,8 @@ state={
 	name="STATE_12"
 
 	history={
-		owner = DAC
-		add_core_of = DAC
+		owner = EQS
+		add_core_of = EQS
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 3

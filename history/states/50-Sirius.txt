@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = EQS
-		add_core_of = EQS
+		owner = HCP
+		add_core_of = HCP
 		buildings = {
 			infrastructure = 2
 			9572 = {
@@ -18,7 +18,10 @@ state={
 
 		}
 		victory_points = {
-			9572 3
+			9572 10
+		}
+		victory_points = {
+			982 3
 		}
 
 	}

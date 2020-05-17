@@ -8,8 +8,8 @@ state={
 	}
 
 	history={
-		owner = EQS
-		add_core_of = EQS
+		owner = HCP
+		add_core_of = HCP
 
 	}
 
