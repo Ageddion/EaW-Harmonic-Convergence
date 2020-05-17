@@ -681,3 +681,7 @@ HSM = {
 	color = rgb { 22 44 11 }
 	color_ui = rgb { 22 44 11 }
 }
+STR = {
+	color = rgb { 42 111 188 }
+	color_ui = rgb { 42 111 188 }
+}

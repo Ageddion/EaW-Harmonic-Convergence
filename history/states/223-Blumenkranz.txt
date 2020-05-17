@@ -4,8 +4,8 @@ state={
 	name="STATE_223"
 
 	history={
-		owner = EQS
-		add_core_of = EQS
+		owner = STR
+		add_core_of = STR
 		buildings = {
 			infrastructure = 2
 
@@ -16,7 +16,7 @@ state={
 	provinces={
 		854 6155 6927 9824 11148 13119 
 	}
-	manpower=38637
+	manpower=38847
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

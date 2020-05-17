@@ -12,6 +12,7 @@ LST = "countries/LunarState.txt"
 HCP = "countries/HoofProtectorate.txt"
 HSM = "countries/HayseedMarches.txt"
 DAC = "countries/Dalimare.txt"
+STR = "countries/Stratusburg.txt"
 
 OLE = "countries/Olenia.txt"
 OLD = "countries/Cervus.txt"

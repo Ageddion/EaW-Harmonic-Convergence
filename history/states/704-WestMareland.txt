@@ -2,9 +2,23 @@
 state={
 	id=704
 	name="STATE_704"
+	
+	history={
+		owner = STR
+		add_core_of = STR
+		victory_points = {
+			
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
 	provinces={
 		790 3820 3954 9800 9813 11793 
 	}
-	manpower=0
+	manpower=101388
 	buildings_max_level_factor=1.000
 }
