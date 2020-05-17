@@ -275,6 +275,19 @@
   MHT_neutrality_ADJ:0 "Manehattanite"
   MHT_communism_ADJ:0 "Manehattanite"
   
+  DAC_neutrality:0 "Dalimare Confederation"
+  DAC_fascism:0 "Dalimarean State"
+  DAC_communism:0 "Union of Dalimarean Socialist Republics"
+  DAC_democratic:0 "Dalimare Confederation"
+  DAC_neutrality_DEF:0 "Dalimare Confederation"
+  DAC_fascism_DEF:0 "Dalimare Confederation"
+  DAC_communism_DEF:0 "Dalimare Confederation"
+  DAC_democratic_DEF:0 "Dalimare Confederation"
+  DAC_fascism_ADJ:0 "Dalimarean"
+  DAC_democratic_ADJ:0 "Dalimarean"
+  DAC_neutrality_ADJ:0 "Dalimarean"
+  DAC_communism_ADJ:0 "Dalimarean"
+  
   LST_neutrality:0 "Lunar State"
   LST_fascism:0 "Lunar Empire"
   LST_communism:0 "Lunar Pony's Republic"
@@ -287,7 +300,7 @@
   LST_democratic_ADJ:0 "Lunarite"
   LST_neutrality_ADJ:0 "Lunarite"
   LST_communism_ADJ:0 "Lunarite"
-  
+
   HCP_neutrality:0 "Hoof Protectorate"
   HCP_fascism:0 "Hoof Protectorate"
   HCP_communism:0 "Hoof Protectorate"
@@ -300,7 +313,7 @@
   HCP_democratic_ADJ:0 "Hoofite"
   HCP_neutrality_ADJ:0 "Hoofite"
   HCP_communism_ADJ:0 "Hoofite"
-  
+
   HSM_neutrality:0 "Hayseed Marches"
   HSM_fascism:0 "Hayseed Marches"
   HSM_communism:0 "Hayseed Marches"
@@ -313,10 +326,6 @@
   HSM_democratic_ADJ:0 "Hayseed"
   HSM_neutrality_ADJ:0 "Hayseed"
   HSM_communism_ADJ:0 "Hayseed"
-  
-  
-  
-  
   
   
   

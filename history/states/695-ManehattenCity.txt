@@ -24,11 +24,12 @@ state={
 
 		}
 		victory_points = {
+		   6955 2
 		}	
 
 	}
 
 	
-	MHTpower=0
+	manpower=1136352
 	buildings_max_level_factor=1.000
 }

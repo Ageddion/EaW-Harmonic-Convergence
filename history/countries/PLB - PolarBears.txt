@@ -1,4 +1,4 @@
-﻿capital = 290
+﻿capital = 265
 
 oob = "PLB_1007"
 

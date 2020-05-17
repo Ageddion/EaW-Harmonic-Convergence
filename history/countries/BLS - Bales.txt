@@ -1,4 +1,4 @@
-﻿capital = 69
+﻿capital = 3162
 
 oob = "OLE_1007"
 

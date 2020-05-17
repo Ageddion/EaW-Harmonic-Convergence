@@ -1,4 +1,4 @@
-﻿capital = 16
+﻿capital = 8622
 
 
 set_research_slots = 3
@@ -34,13 +34,13 @@ if = {
 		target = HCP
 		autonomy_state = autonomy_dominion
 	}
-	#set_autonomy = {
-	#	target = PNG
-	#	autonomy_state = autonomy_dominion
-	#}
+	set_autonomy = {
+		target = HSM
+		autonomy_state = autonomy_dominion
+	}
 	else = {
 		puppet = HCP
-		#puppet = PNG
+		puppet = HSM
 	}
 }
 

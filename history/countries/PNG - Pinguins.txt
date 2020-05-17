@@ -1,4 +1,4 @@
-﻿capital = 325
+﻿capital = 13115
 
 oob = "PNG_1007"
 

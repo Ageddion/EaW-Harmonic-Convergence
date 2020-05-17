@@ -38,7 +38,7 @@ state={
 	provinces={
 		758 6734 11710
 	}
-	MHTpower=2452600
+	manpower=3124968
 	buildings_max_level_factor=2.000
 	state_category=megalopolis
 }
