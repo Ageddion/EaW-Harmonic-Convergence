@@ -6,6 +6,7 @@ state={
 	history={
 		owner = MHT
 		add_core_of = MHT
+		add_core_of = DAC
 		victory_points = {
 			4080 2 
 		}
