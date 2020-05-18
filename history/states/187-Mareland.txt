@@ -4,14 +4,14 @@ state={
 	name="STATE_187"
 
 	history={
-		owner = EQS
-		add_core_of = EQS
+		owner = DET
+		add_core_of = DET
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 
 		}
 		victory_points = {
-			6812 10 
+			956 3
 		}
 
 	}
@@ -19,7 +19,7 @@ state={
 	provinces={
 		844 872 939 956 3845 6901 9827 9842 9846 11737 11756 11825 
 	}
-	manpower=384371
+	manpower=215611
 	buildings_max_level_factor=1.000
 	state_category=town
 }

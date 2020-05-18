@@ -4,19 +4,21 @@ state={
 	name="STATE_707"
 	
 	history={
-		owner = EQS
-		add_core_of = EQS
+		owner = FRI
+		add_core_of = FRI
 		buildings = {
 			infrastructure = 1
 
 		}
-		## victory_points = { 6800 }
+		victory_points = { 
+		    6966 1
+		}
 
 	}
 	
 	provinces={
 		858 871 3810 3873 3909 3945 6800 6906 6966 9703 11688 11863 
 	}
-	manpower=0
+	manpower=170897
 	buildings_max_level_factor=1.000
 }

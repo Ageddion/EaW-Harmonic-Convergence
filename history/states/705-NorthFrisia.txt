@@ -2,9 +2,23 @@
 state={
 	id=705
 	name="STATE_705"
+	
+	history={
+		owner = FRI
+		add_core_of = FRI
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = { 
+		    3898 3
+		}
+
+	}
+
 	provinces={
 		3751 3898 6865 6931 6962 9723 
 	}
-	manpower=0
+	manpower=233416
 	buildings_max_level_factor=1.000
 }

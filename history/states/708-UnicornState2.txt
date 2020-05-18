@@ -2,9 +2,20 @@
 state={
 	id=708
 	name="STATE_708"
+	
+	history={
+		owner = DET
+		add_core_of = DET
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
 	provinces={
 		896 958 3762 3794 6867 6907 11820 
 	}
-	manpower=0
+	manpower=3025
 	buildings_max_level_factor=1.000
 }
