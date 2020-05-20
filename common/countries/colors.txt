@@ -662,8 +662,8 @@ PRA = {
 	color_ui = rgb { 3 1 74 }
 }
 MHT = {
-	color = rgb { 28 24 163 }
-	color_ui = rgb { 28 24 163 }
+	color = rgb { 43 53 110 }
+	color_ui = rgb { 43 53 110 }
 }
 DAC = {
 	color = rgb { 55 183 208 }
