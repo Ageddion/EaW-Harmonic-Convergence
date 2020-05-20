@@ -689,3 +689,7 @@ FRI = {
 	color = rgb { 63 161 111 }
 	color_ui = rgb { 63 161 111 }
 }
+DET = {
+	color = rgb { 125 58 177 }
+	color_ui = rgb { 125 58 177 }
+}
