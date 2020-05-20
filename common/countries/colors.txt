@@ -39,6 +39,10 @@ OLD = {
 	color = rgb ( 163 0 203 )
 	color_ui = rgb ( 163 0 204 )
 }
+CDI = {
+	color = rgb ( 171 64 86 )
+	color_ui = rgb ( 171 64 86 )
+}
 VAR = {
 	color = rgb ( 143 0 179 )
 	color_ui = rgb ( 143 0 179 )
@@ -688,4 +692,8 @@ STR = {
 FRI = {
 	color = rgb { 63 161 111 }
 	color_ui = rgb { 63 161 111 }
+}
+TTL = {
+	color = rgb { 22 44 11 }
+	color_ui = rgb { 22 44 11 }
 }

@@ -7,8 +7,8 @@ state={
 	manpower=1040
 	state_category = tiny_island
 	history = {
-		owner = DRG
-		add_core_of = DRG
+		owner = CDI
+		add_core_of = CDI
 		buildings = {
 			3118 = { naval_base = 1 }
 		}

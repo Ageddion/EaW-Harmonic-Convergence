@@ -5,15 +5,15 @@ state={
 		668 671 3299 11529 11544
 	}
 	history={
-		owner = LST
-		add_core_of = LST
+		owner = TTL
+		add_core_of = TTL
 		buildings = {
 			infrastructure = 2
 			668 = { naval_base = 1 }
 		}
-		victory_points = { 668 5 }
+		victory_points = { 668 20 }
 	}
-	manpower=257400
+	manpower=1257400
 	state_category = town
 	buildings_max_level_factor=1.000
 }

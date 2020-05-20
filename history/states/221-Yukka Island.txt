@@ -5,15 +5,15 @@ state={
 	state_category = small_island
 
 	history={
-		owner = LST
-		add_core_of = LST
+		owner = TTL
+		add_core_of = TTL
 
 	}
 
 	provinces={
 		177
 	}
-	manpower=1748
+	manpower=11748
 	buildings_max_level_factor=1.000
 }
 

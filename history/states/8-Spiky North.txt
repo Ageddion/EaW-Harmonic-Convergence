@@ -5,8 +5,11 @@ state={
 	state_category = rural
 
 	history={
-		owner = DRG
-		add_core_of = DRG
+		owner = CDI
+		add_core_of = CDI
+		victory_points = {
+			10113 15
+		}
 		buildings = {
 			10113 = { naval_base = 1 }
 			dockyard = 1

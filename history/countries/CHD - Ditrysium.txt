@@ -56,8 +56,13 @@ if = {
 		target = OLD
 		autonomy_state = autonomy_dominion
 	}
+	set_autonomy = {
+		target = CDI
+		autonomy_state = autonomy_dominion
+	}
 	else = {
 		puppet = OLD
+		puppet = CDI
 	}
 }
 

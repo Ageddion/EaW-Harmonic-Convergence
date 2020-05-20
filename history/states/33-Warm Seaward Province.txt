@@ -4,15 +4,17 @@ state={
 	name="STATE_33"
 
 	history={
-		owner = LST
-		add_core_of = LST
+		owner = TTL
+		add_core_of = TTL
+		victory_points = { 3657 5 }
+		victory_points = { 11618 5 }
 
 	}
 
 	provinces={
 		561 571 688 707 3541 3571 3657 3688 6540 6555 6656 6693 9545 9636 11615 11618 11653
 	}
-	manpower=129000
+	manpower=429000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

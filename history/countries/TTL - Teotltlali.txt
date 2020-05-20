@@ -1,4 +1,4 @@
-﻿capital = 8622
+﻿capital = 351
 
 
 set_research_slots = 3
@@ -25,29 +25,7 @@ set_politics = {
 	election_frequency = 36
 	elections_allowed = no
 }
-
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = HCP
-		autonomy_state = autonomy_dominion
-	}
-	set_autonomy = {
-		target = HSM
-		autonomy_state = autonomy_dominion
-	}
-	set_autonomy = {
-		target = TTL
-		autonomy_state = autonomy_dominion
-	}
-	else = {
-		puppet = HCP
-		puppet = HSM
-		puppet = TTL
-	}
-}
+set_cosmetic_tag = Lunar_vassal_colour
 
 add_ideas = {
 	
@@ -58,7 +36,7 @@ set_stability = 0.65
 
 
 create_country_leader = {
-	name = "Count Batula"
+	name = "Lord of the Sun"
 	desc = "POLITICS_KINGJOHAN_DESC"
 	picture = "Starlight.dds"
 	expire = "1965.1.1"

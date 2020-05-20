@@ -8,10 +8,10 @@ state={
 	}
 
 	history={
-		owner = DRG
-		add_core_of = DRG
+		owner = CDI
+		add_core_of = CDI
 		victory_points = {
-			13071 15
+			13071 10
 		}
 		buildings = {
 			industrial_complex = 1
