@@ -36,7 +36,7 @@ set_stability = 0.65
 
 
 create_country_leader = {
-	name = "Random President"
+	name = "Friesian Grand Council"
 	desc = "POLITICS_KINGJOHAN_DESC"
 	picture = "Starlight.dds"
 	expire = "1965.1.1"
