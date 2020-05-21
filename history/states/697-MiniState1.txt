@@ -2,9 +2,16 @@
 state={
 	id=697
 	name="STATE_697"
-	provinces={
-		9590 
+	
+	history={
+		owner = URF
+		add_core_of = URF
+
 	}
-	manpower=0
+
+	provinces={
+		400 3005 3262 3393 3476 4109 6093 6147 7096 11548 13099
+	}
+	manpower=15400
 	buildings_max_level_factor=1.000
 }
