@@ -59,7 +59,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Queen Chrysalis"
+	name = "Queen Argynnis"
 	expire = "1965.1.1"
 	picture = "Chrysalis.tga"
 	ideology = nazism

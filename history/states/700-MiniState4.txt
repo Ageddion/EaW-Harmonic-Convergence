@@ -2,9 +2,23 @@
 state={
 	id=700
 	name="STATE_700"
-	provinces={
-		6613 
+	
+	history={
+		owner = WHI
+		add_core_of = WHI
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			11898 5
+		}
+
 	}
-	manpower=0
+
+	provinces={
+		849 928 947 6375 7361 11245 11898 13284 13285  
+	}
+	manpower=673204
 	buildings_max_level_factor=1.000
 }

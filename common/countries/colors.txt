@@ -701,3 +701,7 @@ DET = {
 	color = rgb { 125 58 177 }
 	color_ui = rgb { 125 58 177 }
 }
+WHI = {
+	color = rgb { 131 66 51 }
+	color_ui = rgb { 131 66 51 }
+}

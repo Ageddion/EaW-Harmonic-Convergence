@@ -17,6 +17,7 @@ DET = "countries/Detrot.txt"
 FRI = "countries/Friesia.txt"
 CDI = "countries/Dragon_commiserat.txt"
 TTL = "countries/Teotltlali.txt"
+WHI = "countries/Whinnysota.txt"
 
 OLE = "countries/Olenia.txt"
 OLD = "countries/Cervus.txt"

@@ -7,8 +7,8 @@ state={
 		oil=10
 	}
 	history={
-		owner = EQS
-		add_core_of = EQS
+		owner = WHI
+		add_core_of = WHI
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
@@ -18,8 +18,8 @@ state={
 	}
 
 	provinces={
-		476 3526 4112 6055 6130 6550 6990 9481 9799 9818 9887 11778
+		101 476 3526 4112 6055 6130 6550 6990 9178 9481 9799 9818 9887 11778
 	}
-	manpower=1021800
+	manpower=1226800
 	buildings_max_level_factor=1.000
 }
