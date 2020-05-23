@@ -11,13 +11,16 @@ state={
 			arms_factory = 1
 
 		}
+		victory_points = {
+			3496 3
+		}
 
 	}
 
 	provinces={
 		149 3151 3496 9249 13299 
 	}
-	manpower=286800
+	manpower=291534
 	buildings_max_level_factor=1.000
 	state_category=town
 }

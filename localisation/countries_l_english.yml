@@ -392,10 +392,10 @@
   TTL_neutrality_ADJ:0 "Tōnatiuhtlacan"
   TTL_communism_ADJ:0 "Tōnatiuhtlacan"
   
-  WHI_neutrality:0 "Whinnysotan Confederacy"
+  WHI_neutrality:0 "Whinnysotan Confederation"
   WHI_fascism:0 "Whinnysotan State"
   WHI_communism:0 "Whinnysotan Socialist Republic"
-  WHI_democratic:0 "Whinnysotan Confederacy"
+  WHI_democratic:0 "Whinnysotan Confederation"
   WHI_neutrality_DEF:0 "Republic of Whinnysota"
   WHI_fascism_DEF:0 "Republic of Whinnysota"
   WHI_communism_DEF:0 "Republic of Whinnysota"
