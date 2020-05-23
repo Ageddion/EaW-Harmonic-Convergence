@@ -50,3 +50,8 @@ create_country_leader = {
 set_rule = {
 	can_generate_female_aces = yes
 }
+
+create_faction = stratus_pact
+add_to_faction = SKS
+add_to_faction = FRI
+add_to_faction = DET
