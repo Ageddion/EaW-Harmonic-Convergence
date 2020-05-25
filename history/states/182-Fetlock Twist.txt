@@ -7,8 +7,11 @@ state={
 		owner = URF
 		add_core_of = URF
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 
+		}
+		victory_points = {
+			 107 10
 		}
 
 	}
@@ -16,7 +19,7 @@ state={
 	provinces={
 		107 976 1106 1109 1205 6187 10163 11818 
 	}
-	manpower=238247
+	manpower=246247
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }
